@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="product_id">product_id</string>
+    <string name="not_assigned">Integer/PrimaryKey/AutoIncriment/</string>
+    <string name="product_name">product_name</string>
+    <string name="product_quantity">product_quantity</string>
+    <string name="add">Add</string>
+    <string name="find">Find</string>
+    <string name="delete">Delete</string>
+
+</resources>
